@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a new software developer- I'm learning how to code! I'm currently using my free time to read 24 books, hopefully by the end of the summer. wish me luck!
+I'm a new software developer- I'm learning how to code! I'm currently using my free time to read 24 books, hopefully by the end of the summer. Wish me luck!
 <!--
 **joie711/joie711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
