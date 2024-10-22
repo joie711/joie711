@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Joie, a budding software developer currently enrolled in a 14-week immersive program with TechElevator. I decided to pursue software development because it engages my mind and critical thinking skills in a way that was missing in my previous roles in health care administration.
+I'm Joie, a budding software developer recently graduated from a 14-week immersive program with TechElevator. I decided to pursue software development because it engages my mind and critical thinking skills in a way that was missing in my previous roles in health care administration.
 
 ### What I'm Learning
 
